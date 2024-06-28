@@ -1,8 +1,8 @@
-License Key Downloader
+#License Key Downloader
+
 This project is a simple web application that allows users to download a protected file after validating a license key. It's designed to demonstrate how to integrate with KeyAuth for license verification and use VMProtect for file protection.
 
 Credits
-Coded By: [Your Name]
 Optimized By: My Best Friend ChatGPT 4.0
 Features
 Validates license key using KeyAuth API.
