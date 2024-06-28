@@ -18,5 +18,5 @@ Node.js installed
 KeyAuth seller account and API key  
 VMProtect installed with necessary files and paths configured  
 
-![Logo]([https://raw.githubusercontent.com/zf9/Website2VMProtect/main/image.png])
+![Logo](https://raw.githubusercontent.com/zf9/Website2VMProtect/main/image.png)
 
